@@ -1,23 +1,24 @@
 # Introduction
 
+Email: kun.sang@xmu.edu.my
 
 ## Current projects
 * Digital heritage: spatial technologies for railway heritage documentation in Asia (Xiamen University Malaysia Research Fund)
 
 ## Education
 
-1. PhD on Geographical studies (2017/10-2021/03)
-University of Padua – Padua, Italy
+1. PhD on Geographical studies (2017/10 - 2021/03)
+University of Padua, Italy
 
-2. Master on Science of Landscape Architecture (2014/09-2017/05)
-University of Pisa - Pisa, Italy
+2. Master on Science of Landscape Architecture (2014/09 - 2017/05)
+University of Pisa, Italy
 
-3. Bachelor on of Landscape Architecture (2009/09-2013/06) 
-Hunan University of Science and Technology - Hunan, China
+3. Bachelor on of Landscape Architecture (2009/09 - 2013/06) 
+Hunan University of Science and Technology, China
 
 ## Working Experience
 
-Teaching Assistant (10/2018 to 10/2020)
+Teaching Assistant (10/2018 - 10/2020)
 Department of Geography, University of Padua – Italy
 
 Visiting Scholar (06/2019 - 09/2019)
@@ -29,10 +30,10 @@ University of Bordeaux Montaigne, France
 Visiting PhD (09/2018 - 10/2018) 
 Yunnan University, China
 
-Project Coordinator (08/2017 to 11/2017)
+Project Coordinator (08/2017 - 11/2017)
 Dione Development Center – Andritsaina, Greece
 
-Landscape Designer (05/2016 to 09/2016)
+Landscape Designer (05/2016 - 09/2016)
 IRTA Institution of Territory and Environment Research – Pisa, Italy
 
 Erasmus Exchange program (09/2015 - 01/2016) 
