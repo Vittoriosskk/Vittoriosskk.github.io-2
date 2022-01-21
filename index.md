@@ -38,8 +38,6 @@ IRTA Institution of Territory and Environment Research – Pisa, Italy
 Erasmus Exchange program (09/2015 - 01/2016) 
 Czech University of Life Sciences Prague, Czech Republic
 
-[Link](url) and ![Image](src)
-
 ## Research Interests
 Geographic information; Cultural heritage & Tourism; Urban and rural issues; Wetland
 
