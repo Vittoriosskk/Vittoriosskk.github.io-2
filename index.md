@@ -66,12 +66,17 @@ Geographic information; Cultural heritage & Tourism; Urban and rural issues; Wet
 
 •	Sang, K. (2018). The Value of Yunnan-Vietnam Railway as an Urban Industrial Heritage: Historical Analysis of its Landscape Changes. The IAFOR Conference on Heritage & the City – New York Official Conference Proceedings, New York. pp. 43-53.
 
-### Landscape projects
+### Landscape projects:
 Chenzhou Qilidong Cultural Park Design in Hunan (China), 2013
+
 Conceptual Design of Stromovac Park in Prague (Czech Republic), 2015
+
 Future Proposal Plan of Olbramovice and Votice (Czech Republic), 2015
+
 Environmental evaluation of Ex-Ilva Park in Follonica (Italy), 2016
+
 Regeneration of brownfield land of Shougang industrial area (China), 2017
+
 Tree species research and VTA analysis of Giardino Scotto in Pisa (Italy), 2017
 
 ## Supervised Students
