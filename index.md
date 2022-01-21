@@ -7,13 +7,13 @@ Email: kun.sang@xmu.edu.my
 
 ## Education
 
-1. PhD on Geographical studies (2017/10 - 2021/03)
+1. PhD on Geographical Studies (10/2017- 03/2021)
 University of Padua, Italy
 
-2. Master on Science of Landscape Architecture (2014/09 - 2017/05)
+2. Master on Landscape Architecture (09/2014- 05/2017)
 University of Pisa, Italy
 
-3. Bachelor on of Landscape Architecture (2009/09 - 2013/06) 
+3. Bachelor on Landscape Architecture (09/2009- 06/2013) 
 Hunan University of Science and Technology, China
 
 ## Working Experience
@@ -26,9 +26,6 @@ Ho Chi Minh City University of Social Sciences and Humanities, Vietnam
 
 Erasmus Exchange program (01/2019 - 06/2019) 
 University of Bordeaux Montaigne, France
-
-Visiting PhD (09/2018 - 10/2018) 
-Yunnan University, China
 
 Project Coordinator (08/2017 - 11/2017)
 Dione Development Center – Andritsaina, Greece
@@ -65,10 +62,8 @@ Geographic information; Cultural heritage & Tourism; Urban and rural issues; Wet
 
 •	Sang, K. (2019). The potential and current status of Yunnan-Vietnam Railway heritage tourism from an International perspective. New Era and New Mission: collected works of the 2018 Jianshui Yunnan Vietnam Railway Forum, Zhang, Y. & Liu, Y. (Ed.). Yunnan People's Publishing House. pp. 141-147. (In Chinese)
 
-•	Sang, K. (2018). The Value of Yunnan-Vietnam Railway as an Urban Industrial Heritage: Historical Analysis of its Landscape Changes. The IAFOR Conference on Heritage & the City – New York Official Conference Proceedings, New York. pp. 43-53.
 
 ### Landscape projects:
-Chenzhou Qilidong Cultural Park Design in Hunan (China), 2013
 
 Conceptual Design of Stromovac Park in Prague (Czech Republic), 2015
 
@@ -81,7 +76,7 @@ Regeneration of brownfield land of Shougang industrial area (China), 2017
 Tree species research and VTA analysis of Giardino Scotto in Pisa (Italy), 2017
 
 ## Supervised Students
-1. Er Wen Fay (2021) Intangible Cultural Heritage: The Perception of Chinese Folklore for Overseas Chinese
-2. Li Xiaoke (2021) College Students' Interests in Plateau Cultural Landscape: A Study of Plateau Tourism In Qinghai, China
-3. Shen Qingyuan (2021) Communication Between Social Media Big Data and Red Tourism: A Study of Guangxi Red Tourism on Bilibili in China
+1. Er Wen Fay (2021), Intangible Cultural Heritage: The Perception of Chinese Folklore for Overseas Chinese
+2. Li Xiaoke (2021), College Students' Interests in Plateau Cultural Landscape: A Study of Plateau Tourism In Qinghai, China
+3. Shen Qingyuan (2021), Communication Between Social Media Big Data and Red Tourism: A Study of Guangxi Red Tourism on Bilibili in China
 
