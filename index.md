@@ -2,13 +2,13 @@
 ## Peer-reviewed journals:
 •	Sang, K., Fontana, G., L., & Piovan, S. (2022). Assessing railway landscape by AHP process with GIS: a study of the Yunnan-Vietnam Railway. Remote Sensing, 1.
 
-•	Lin, G., Giordano, A., Sang, K., Stendardo, L., & Yang, X. (2021). Application of Territorial Laser Scanning in 3D Modeling of Traditional Village: A Case Study of Fenghuang Village in China. ISPRS International Journal of Geo-Information, 10(11), 770.
+•	Lin, G., Giordano, A., Sang, K., Stendardo, L., & Yang, X. (2021). Application of Territorial Laser Scanning in 3D Modeling of Traditional Village: A Case Study of Fenghuang Village in China. ISPRS International Journal of Geo-Information, 10(11), 770. doi.org/10.3390/ijgi10110770
 
-•	Sang, K., Piovan, S. & Fontana, G., L. (2021). A WebGIS for visualizing historical activities based on photos: the project of Yunnan-Vietnam Railway Web map. Sustainability, 13, 419.
+•	Sang, K., Piovan, S. & Fontana, G., L. (2021). A WebGIS for visualizing historical activities based on photos: the project of Yunnan-Vietnam Railway Web map. Sustainability, 13, 419. doi.org/10.3390/su13010419
 
-•	Sang, K. & Lin, G. (2021). A system for measuring the satisfaction of railway heritage tourism: the case of Yunnan-Vietnam Railway. Environmental Research: Infrastructure and Sustainability, 1 (1), 015001.
+•	Sang, K. & Lin, G. (2021). A system for measuring the satisfaction of railway heritage tourism: the case of Yunnan-Vietnam Railway. Environmental Research: Infrastructure and Sustainability, 1 (1), 015001. doi: 10.1088/2634-4505/abf1cf
 
-•	Lin, G., Sang, K. & Giordano, A. (2020). From site survey to HBIM model for the documentation of historic buildings: a case study of Hexinwu village in China. Conservation Science in Cultural Heritage, 20 (1), 111-123.
+•	Lin, G., Sang, K. & Giordano, A. (2020). From site survey to HBIM model for the documentation of historic buildings: a case study of Hexinwu village in China. Conservation Science in Cultural Heritage, 20 (1), 111-123.  doi:10.6092/issn.1973-9494/12793
 
 •	Sang, K. (2019). Cultural Route: the Yunnan- Vietnam Railway and its current touristic situation. Officina, 24, 22-29.
 
