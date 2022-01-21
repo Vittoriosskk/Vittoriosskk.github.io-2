@@ -12,6 +12,7 @@
 
 •	Sang, K. (2019). Cultural Route: the Yunnan- Vietnam Railway and its current touristic situation. Officina, 24, 22-29.
 
+
 ## Conference proceedings:
 •	Lin, G. & Sang, K. (2021). Application of UAV-based Oblique Photography in Architectural Design: The Case of Mengyuan Resort Hotel in Yunnan, China.  Proceedings of 2021 4th International Conference on Civil Engineering and Architecture. doi: 10.1007/978-981-16-6932-3.
 
@@ -20,6 +21,7 @@
 •	Sang, K., & Piovan, S., E. (2019). The application of GIS in railway heritage management: the case of Yunnan-Vietnam Railway. Proceedings of the ICA International Cartographic Association, 2 (100), 41-44.  doi.org/10.5194/ica-proc-2-110-2019.
 
 •	Sang, K. (2019). The potential and current status of Yunnan-Vietnam Railway heritage tourism from an International perspective. New Era and New Mission: collected works of the 2018 Jianshui Yunnan Vietnam Railway Forum, Zhang, Y. & Liu, Y. (Ed.). Yunnan People's Publishing House. pp. 141-147. (In Chinese)
+
 
 
 ## Landscape projects:
@@ -33,6 +35,8 @@ Environmental evaluation of Ex-Ilva Park in Follonica (Italy), 2016
 Regeneration of brownfield land of Shougang industrial area (China), 2017
 
 Tree species research and VTA analysis of Giardino Scotto in Pisa (Italy), 2017
+
+
 
 ## Supervised Students
 1. Er Wen Fay (2021), Intangible Cultural Heritage: The Perception of Chinese Folklore for Overseas Chinese
