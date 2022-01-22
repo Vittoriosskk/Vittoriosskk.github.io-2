@@ -1,4 +1,14 @@
 # Publications
+
+## Ongoing projects:
+
+1. 2022-2024: Digital heritage: spatial technologies for railway heritage documentation in Asia, Xiamen University Malaysia Research Fund (XMUMRF), Sepang, Malaysia.
+
+## Finished projects:
+
+1. 2017-2020: Yunnan-Vietnam Railway Heritage Corridor: Construction, Evaluation and Application, China Scholarship Council (CSC), Padua, Italy.
+
+
 ## Peer-reviewed journals:
 
 •	Lin, G., Xiang, L., Sang, K. (2022). Scenic railway mapping: analyze its spatial pattern in France with historical GIS. ISPRS International Journal of Geo-Information, 1. (Corresponding Author; SCIE Q2)
