@@ -1,16 +1,20 @@
 # Publications
 ## Peer-reviewed journals:
+
+•	Lin, G., Xiang, L., Sang, K. (2022). Scenic railway mapping: analyze its spatial pattern in France with historical GIS. ISPRS International Journal of Geo-Information, 1. (Corresponding Author; SCIE Q2)
+
 •	Sang, K., Fontana, G., L., & Piovan, S. (2022). Assessing railway landscape by AHP process with GIS: a study of the Yunnan-Vietnam Railway. Remote Sensing, 1.
+(First Author; SCIE-Q1)
 
-•	Lin, G., Giordano, A., Sang, K., Stendardo, L., & Yang, X. (2021). Application of Territorial Laser Scanning in 3D Modeling of Traditional Village: A Case Study of Fenghuang Village in China. ISPRS International Journal of Geo-Information, 10(11), 770. doi.org/10.3390/ijgi10110770
+•	Lin, G., Giordano, A., Sang, K., Stendardo, L., & Yang, X. (2021). Application of Territorial Laser Scanning in 3D Modeling of Traditional Village: A Case Study of Fenghuang Village in China. ISPRS International Journal of Geo-Information, 10(11), 770. doi.org/10.3390/ijgi10110770 (Co-author; SCIE Q2)
 
-•	Sang, K., Piovan, S. & Fontana, G., L. (2021). A WebGIS for visualizing historical activities based on photos: the project of Yunnan-Vietnam Railway Web map. Sustainability, 13, 419. doi.org/10.3390/su13010419
+•	Sang, K., Piovan, S. & Fontana, G., L. (2021). A WebGIS for visualizing historical activities based on photos: the project of Yunnan-Vietnam Railway Web map. Sustainability, 13, 419. doi.org/10.3390/su13010419 (First Author; SSCI Q3)
 
-•	Sang, K. & Lin, G. (2021). A system for measuring the satisfaction of railway heritage tourism: the case of Yunnan-Vietnam Railway. Environmental Research: Infrastructure and Sustainability, 1 (1), 015001. doi: 10.1088/2634-4505/abf1cf
+•	Sang, K. & Lin, G. (2021). A system for measuring the satisfaction of railway heritage tourism: the case of Yunnan-Vietnam Railway. Environmental Research: Infrastructure and Sustainability, 1 (1), 015001. doi: 10.1088/2634-4505/abf1cf (First Author)
 
-•	Lin, G., Sang, K. & Giordano, A. (2020). From site survey to HBIM model for the documentation of historic buildings: a case study of Hexinwu village in China. Conservation Science in Cultural Heritage, 20 (1), 111-123.  doi:10.6092/issn.1973-9494/12793
+•	Lin, G., Sang, K. & Giordano, A. (2020). From site survey to HBIM model for the documentation of historic buildings: a case study of Hexinwu village in China. Conservation Science in Cultural Heritage, 20 (1), 111-123.  doi:10.6092/issn.1973-9494/12793 (Co-author; ESCI & Scopus)
 
-•	Sang, K. (2019). Cultural Route: the Yunnan- Vietnam Railway and its current touristic situation. Officina, 24, 22-29.
+•	Sang, K. (2019). Cultural Route: the Yunnan- Vietnam Railway and its current touristic situation. Officina, 24, 22-29. (Single Author; ANVUR-08)
 
 
 ## Conference proceedings:
@@ -42,3 +46,4 @@ Tree species research and VTA analysis of Giardino Scotto in Pisa (Italy), 2017
 1. Er Wen Fay (2021), Intangible Cultural Heritage: The Perception of Chinese Folklore for Overseas Chinese
 2. Li Xiaoke (2021), College Students' Interests in Plateau Cultural Landscape: A Study of Plateau Tourism In Qinghai, China
 3. Shen Qingyuan (2021), Communication Between Social Media Big Data and Red Tourism: A Study of Guangxi Red Tourism on Bilibili in China
+4. Ma Hangqi (2021), Analysis of The Relationship Between Tourism Marketing and Convenience of Transport in Cities Along New High-Speed Railway: A Study on Shengzhou in China
