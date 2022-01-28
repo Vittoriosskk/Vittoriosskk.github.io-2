@@ -13,8 +13,7 @@
 
 •	Lin, G., Xiang, L., Sang, K. (2022). Scenic railway mapping: analyze its spatial pattern in France with historical GIS. ISPRS International Journal of Geo-Information, 1. (Corresponding Author; SCIE Q2)
 
-•	Sang, K., Fontana, G., L., & Piovan, S. (2022). Assessing railway landscape by AHP process with GIS: a study of the Yunnan-Vietnam Railway. Remote Sensing, 1.
-(First Author; SCIE-Q1)
+•	Sang, K., Fontana, G., L., & Piovan, S. E. (2022). Assessing railway landscape by AHP process with GIS: a study of the Yunnan-Vietnam Railway. Remote Sensing, 14(3), 603. https://doi.org/10.3390/rs14030603 (First Author; SCIE-Q1)
 
 •	Lin, G., Giordano, A., Sang, K., Stendardo, L., & Yang, X. (2021). Application of Territorial Laser Scanning in 3D Modeling of Traditional Village: A Case Study of Fenghuang Village in China. ISPRS International Journal of Geo-Information, 10(11), 770. doi.org/10.3390/ijgi10110770 (Co-author; SCIE Q2)
 
