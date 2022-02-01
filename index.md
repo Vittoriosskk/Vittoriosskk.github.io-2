@@ -11,7 +11,7 @@
 
 ## Peer-reviewed journals:
 
-•	Lin, G., Xiang, L., Sang, K. (2022). Scenic railway mapping: analyze its spatial pattern in France with historical GIS. ISPRS International Journal of Geo-Information, 11(2), 99. https://doi.org/10.3390/ijgi11020099 (Corresponding Author; SCIE Q2)
+•	Lin, G., Xiang, L., Sang, K. (2022). Scenic railway mapping: an analysis of spatial patterns in France based on historical GIS. ISPRS International Journal of Geo-Information, 11(2), 99. https://doi.org/10.3390/ijgi11020099 (Corresponding Author; SCIE Q2)
 
 •	Sang, K., Fontana, G., L., & Piovan, S. E. (2022). Assessing railway landscape by AHP process with GIS: a study of the Yunnan-Vietnam Railway. Remote Sensing, 14(3), 603. https://doi.org/10.3390/rs14030603 (First Author; SCIE-Q1)
 
