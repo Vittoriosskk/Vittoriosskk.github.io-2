@@ -11,6 +11,8 @@
 
 ## Peer-reviewed journals:
 
+•	Xu, L., Liu, K., Sang, K., Lin, G., Luo, Q., Huang, C. & Giordano, A. (2022). Assessment of the Exterior Quality of Traditional Residences: A Genetic Algorithm–Backpropagation Approach. Buildings, 12(5), 559. https://doi.org/10.3390/buildings12050559 (Co-author; SCIE Q2)
+
 •	Lin, G., Xiang, L., Sang, K. (2022). Scenic railway mapping: an analysis of spatial patterns in France based on historical GIS. ISPRS International Journal of Geo-Information, 11(2), 99. https://doi.org/10.3390/ijgi11020099 (Corresponding Author; SCIE Q2)
 
 •	Sang, K., Fontana, G., L., & Piovan, S. E. (2022). Assessing railway landscape by AHP process with GIS: a study of the Yunnan-Vietnam Railway. Remote Sensing, 14(3), 603. https://doi.org/10.3390/rs14030603 (First Author; SCIE-Q1)
@@ -50,9 +52,15 @@ Regeneration of brownfield land of Shougang industrial area (China), 2017
 Tree species research and VTA analysis of Giardino Scotto in Pisa (Italy), 2017
 
 
+## Teaching courses
+1. Environmental Design
+2. Data Analysis for Digital Creative Industries
+3. Geographical Information Systems for Digital Humanities
 
 ## Supervised Students
-1. Er Wen Fay (2021), Intangible Cultural Heritage: The Perception of Chinese Folklore for Overseas Chinese
-2. Li Xiaoke (2021), College Students' Interests in Plateau Cultural Landscape: A Study of Plateau Tourism In Qinghai, China
-3. Shen Qingyuan (2021), Communication Between Social Media Big Data and Red Tourism: A Study of Guangxi Red Tourism on Bilibili in China
-4. Ma Hangqi (2021), Analysis of The Relationship Between Tourism Marketing and Convenience of Transport in Cities Along New High-Speed Railway: A Study on Shengzhou in China
+1. Er Wen Fay (2021), Intangible Cultural Heritage: The Perception of Chinese Folklore for Overseas Chinese.
+2. Li Xiaoke (2021), College Students' Interests in Plateau Cultural Landscape: A Study of Plateau Tourism In Qinghai, China.
+3. Shen Qingyuan (2021), Communication Between Social Media Big Data and Red Tourism: A Study of Guangxi Red Tourism on Bilibili in China.
+4. Ma Hangqi (2021), Analysis of the Relationship Between Tourism Marketing and Convenience of Transport in Cities Along New High-Speed Railway: A Study on Shengzhou in China.
+5. Cheh Suh Ping (2022), Did the ambition futuristic man-made island project fail?: Investigations into the Case of Forest City in Iskandar.
+6. Khoo Ee Qing (2022), Study on the Public Engagement in Heritage Conservation in Penang, Malaysia.
