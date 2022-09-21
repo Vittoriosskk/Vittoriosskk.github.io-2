@@ -11,6 +11,8 @@
 
 ## Peer-reviewed journals:
 
+•	Xiang, L., Zhang, H., Chen, Z., Chen, C., Chen, P., Sang, K., & Hua, G. (2022). Purification effect of aquatic plant communities in constructed wetland park: a comparative experiment of Tianhe wetland park in China. Environmental Research Communications, 4(5), 055007. https://doi.org/10.1088/2515-7620/ac6e33 (Corresponding Author; SCIE Q3)
+
 •	Xu, L., Liu, K., Sang, K., Lin, G., Luo, Q., Huang, C. & Giordano, A. (2022). Assessment of the Exterior Quality of Traditional Residences: A Genetic Algorithm–Backpropagation Approach. Buildings, 12(5), 559. https://doi.org/10.3390/buildings12050559 (Co-author; SCIE Q2)
 
 •	Lin, G., Xiang, L., Sang, K. (2022). Scenic railway mapping: an analysis of spatial patterns in France based on historical GIS. ISPRS International Journal of Geo-Information, 11(2), 99. https://doi.org/10.3390/ijgi11020099 (Corresponding Author; SCIE Q2)
@@ -53,9 +55,10 @@ Tree species research and VTA analysis of Giardino Scotto in Pisa (Italy), 2017
 
 
 ## Teaching courses
-1. Environmental Design
-2. Data Analysis for Digital Creative Industries
-3. Geographical Information Systems for Digital Humanities
+1. Environmental Design (ADT010)
+2. Data Analysis for Digital Creative Industries (ADT005)
+3. 3D modelling for Advertising (ADT009)
+4. Geographical Information Systems for Digital Humanities (G0190)
 
 ## Supervised Students
 1. Er Wen Fay (2021), Intangible Cultural Heritage: The Perception of Chinese Folklore for Overseas Chinese.
