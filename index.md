@@ -1,13 +1,13 @@
 # Publications
 
 ## Ongoing projects:
-
-1. 2022-2024: Digital heritage: spatial technologies for railway heritage documentation in Asia, Xiamen University Malaysia Research Fund (XMUMRF), Sepang, Malaysia.
+1. Landscape and soundscape evaluation for wetland parks in Fujian Province based on spatial technologies, Social Science Office of Fujian Province (China), 2024-2026 (project leader).
+2. Environmental quality, tourists perceptions, and behaviour in health tourism: A comprehensive research between China and Malaysia from a Geo-perspective, Xiamen University Malaysia Research Fund (XMUMRF), 2024-2027 (project leader).
 
 ## Finished projects:
 
 1. 2017-2020: Yunnan-Vietnam Railway Heritage Corridor: Construction, Evaluation and Application,Padua University，Italy.
-
+2. 2022-2024: Digital heritage: spatial technologies for railway heritage documentation in Asia, Xiamen University Malaysia Research Fund (XMUMRF), Sepang, Malaysia.
 
 ## Peer-reviewed journals:
 
