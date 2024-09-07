@@ -6,7 +6,7 @@
 
 ## Finished projects:
 
-1. 2017-2020: Yunnan-Vietnam Railway Heritage Corridor: Construction, Evaluation and Application, China Scholarship Council (CSC), Padua, Italy.
+1. 2017-2020: Yunnan-Vietnam Railway Heritage Corridor: Construction, Evaluation and Application,Padua University，Italy.
 
 
 ## Peer-reviewed journals:
